@@ -52,4 +52,4 @@ Para reproduzir este pipeline na sua máquina, siga os passos abaixo:
 
 ## Autor
 
-Desenvolvido por [João Gabriel Guedes] como parte de um portfólio de Engenharia de Dados, demonstrando habilidades em Web Scraping, limpeza de dados e modelagem SQL.
+Desenvolvido por *João Gabriel Guedes* como parte de um portfólio de Engenharia de Dados, demonstrando habilidades em Web Scraping, limpeza de dados e modelagem SQL.
